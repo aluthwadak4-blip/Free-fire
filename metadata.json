@@ -1,0 +1,6 @@
+{
+  "name": "FF Sensi & HUD Pro",
+  "description": "Free Fire sensitivity calculator, custom HUD builder, phone DPI optimizer, and interactive drag-shot headshot training lab for every mobile device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
